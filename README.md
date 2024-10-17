@@ -1,5 +1,4 @@
-## 👋 Hello, Friends!
-
+## 👋 Hello, Friends
 ![DevFlex Logo](src/logo.png)
 
 ### Developer | THARU - Creator of **DevFlex™️**
