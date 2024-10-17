@@ -1,8 +1,8 @@
-# 👋 Hello, I'm THARU!
+## 👋 Hello, Friends!
 
 ![DevFlex Logo](https://github.com/FlexDevelopers/FlexDevelopers/blob/d1c22bad48d2ccebff751b3a7ea21d646b842838/src/IMG_20241016_231518_762-removebg-preview.png)
 
-### Developer | Creator of **DevFlex™️**
+### Developer | THARU - Creator of **DevFlex™️**
 
 ---
 
