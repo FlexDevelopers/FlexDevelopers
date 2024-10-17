@@ -1,4 +1,4 @@
-## 👋 Hello, Friends
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hello,+Friends!)](https://git.io/typing-svg)
 ![DevFlex Logo](src/logo.png)
 
 ### Developer | THARU - Creator of **DevFlex™️**
