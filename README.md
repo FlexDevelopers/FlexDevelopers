@@ -46,7 +46,7 @@ I bring coding ideas to life, with a focus on flexibility and functionality in e
 ---
 
 ### 💡 Let's Connect:
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourchannelusername)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FlexDevelopers)
 
 ---
 
