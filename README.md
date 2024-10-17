@@ -27,10 +27,28 @@ I bring coding ideas to life, with a focus on flexibility and functionality in e
 
 ---
 
+### 💻 Programming Languages:
+<p>
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3" alt="CSS3" />
+</p>
+
+---
+
 ### 💡 Let's Connect:
-- 🔗 [GitHub](https://github.com/yourusername)
-- 🔗 [LinkedIn](https://linkedin.com/in/yourusername)
-- 🔗 [Twitter](https://twitter.com/yourusername)
+<p>
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter" alt="Twitter" />
+  </a>
+</p>
 
 ---
 
