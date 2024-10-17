@@ -1,5 +1,5 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hello,+Friends!)](https://git.io/typing-svg)
-![DevFlex Logo](src/logo.png)
+![DevFlex Logo](src/20241017_125218.png)
 
 ### Developer | THARU - Creator of **DevFlex™️**
 
