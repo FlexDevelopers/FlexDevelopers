@@ -44,17 +44,7 @@ I bring coding ideas to life, with a focus on flexibility and functionality in e
 ---
 
 ### 💡 Let's Connect:
-<p>
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://yourcustomiconurl.com/github-icon.png" alt="GitHub" width="30" />
-  </a>
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
-    <img src="https://yourcustomiconurl.com/linkedin-icon.png" alt="LinkedIn" width="30" />
-  </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://yourcustomiconurl.com/twitter-icon.png" alt="Twitter" width="30" />
-  </a>
-</p>
+![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)
 
 ---
 
