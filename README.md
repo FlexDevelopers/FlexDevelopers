@@ -1,6 +1,6 @@
 ## 👋 Hello, Friends!
 
-![DevFlex Logo](https://github.com/FlexDevelopers/FlexDevelopers/blob/d1c22bad48d2ccebff751b3a7ea21d646b842838/src/IMG_20241016_231518_762-removebg-preview.png)
+![DevFlex Logo](src/logo.png)
 
 ### Developer | THARU - Creator of **DevFlex™️**
 
@@ -29,7 +29,7 @@ I bring coding ideas to life, with a focus on flexibility and functionality in e
 
 ### 💻 Programming Languages:
 <p>
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript" />
+  <img src="src/js.png" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python" />
   <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" alt="HTML5" />
   <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3" alt="CSS3" />
