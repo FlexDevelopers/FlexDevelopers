@@ -1,7 +1,6 @@
-```md
 # 👋 Hello, I'm THARU!
 
-![DevFlex Logo](https://your-image-link-here) 
+![DevFlex Logo](https://github.com/FlexDevelopers/FlexDevelopers/blob/d1c22bad48d2ccebff751b3a7ea21d646b842838/src/IMG_20241016_231518_762-removebg-preview.png)
 
 ### Developer | Creator of **DevFlex™️**
 
@@ -41,4 +40,3 @@ When I’m not coding, you’ll find me exploring new tech trends or learning so
 ---
 
 **"Flexibility in Every Function" — DevFlex™️**
-```
