@@ -28,11 +28,16 @@ I bring coding ideas to life, with a focus on flexibility and functionality in e
 ---
 
 ### 💻 Programming Languages:
-<p>
-  <img src="src/js.png" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python" />
-  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3" alt="CSS3" />
+
+  <p align=''>
+ <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg" alt="Javascript" height="50" width="50" />    
+<img src="src/nodejs.png" alt="Node js" height="50" width="50" />
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%2B%2B.svg" alt="C++ language" height="50" width="50" /> 
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg" alt="python" height="50" width="50" /> 
+<img src="src/html.png" alt="HTML" height="50" width="50" /> 
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/typescript.svg" alt=Typescript" height="50" width="50" />
+<img src="src/php.png" alt="php" height="50" width="50" />  
+<img src="src/mysql.png" alt="mysql" height="50" width="50" /> 
 </p>
 
 ---
@@ -40,13 +45,13 @@ I bring coding ideas to life, with a focus on flexibility and functionality in e
 ### 💡 Let's Connect:
 <p>
   <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub" />
+    <img src="https://yourcustomiconurl.com/github-icon.png" alt="GitHub" width="30" />
   </a>
   <a href="https://linkedin.com/in/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin" alt="LinkedIn" />
+    <img src="https://yourcustomiconurl.com/linkedin-icon.png" alt="LinkedIn" width="30" />
   </a>
   <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter" alt="Twitter" />
+    <img src="https://yourcustomiconurl.com/twitter-icon.png" alt="Twitter" width="30" />
   </a>
 </p>
 
