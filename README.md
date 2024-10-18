@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hello,+Friends!)](https://git.io/typing-svg)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FlexDevelopers/FlexDevelopers/refs/heads/main/src/Syntax%20(3).png" alt="DevFlex Logo" width=""/>
+  <img src="https://raw.githubusercontent.com/FlexDevelopers/FlexDevelopers/refs/heads/main/src/Syntax%20(5).png" alt="DevFlex Logo" width=""/>
 </p>
 
 ### Developer | THARU - Creator of **DevFlex™️**
