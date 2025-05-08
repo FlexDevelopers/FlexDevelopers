@@ -72,7 +72,8 @@ I’m **THARU**, the brain behind **DevFlex™️**, where I blend **UI/UX magic
 ---
 
 ## 🌍 Featured Creations
-- **[PixiMate Bot](https://github.com/FlexDevelopers/PixiMate)** - 🤖 A Telegram Images Prosess Bot. 
+- **[PixiMate Bot](https://github.com/FlexDevelopers/PixiMate)** - 🤖 A Telegram Images Prosess Bot.
+- **[SciApi](sciapi.vercel.app)** - Learn. Explore. Achieve.
 <!--- **[DevFlex UI]** 🌐 A React + Tailwind app with a flawless UX flow.  
   [🔗 GitHub](https://github.com/YOUR_USERNAME/DevFlex-UI)
 - **[FlexAPI]** 🛠 A Node.js API with MongoDB for blazing performance.  
