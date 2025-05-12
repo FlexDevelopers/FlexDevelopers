@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/FlexDevelopers"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub"/></a>
-  <a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-FF2D55?logo=web&logoColor=white&style=flat-square" alt="Portfolio"/></a>
+  <a href="www.tharu.mywire.org"><img src="https://img.shields.io/badge/Portfolio-FF2D55?logo=web&logoColor=white&style=flat-square" alt="Portfolio"/></a>
   <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=flat-square" alt="Telegram"/></a>
 </p>
 
