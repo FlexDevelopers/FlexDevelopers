@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://github.com/FlexDevelopers"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub"/></a>
   <a href="www.tharu.mywire.org"><img src="https://img.shields.io/badge/Portfolio-FF2D55?logo=web&logoColor=white&style=flat-square" alt="Portfolio"/></a>
-  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=flat-square" alt="Telegram"/></a>
+  <a href="https://t.me/FlexDevelopers"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=flat-square" alt="Telegram"/></a>
 </p>
 
 ---
@@ -86,7 +86,7 @@ Need a UI that slaps, a bot that rules, or an API that flies? Hit me up, and let
 
 <p align="center">
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-FF2D55?logo=gmail&logoColor=white&style=flat-square" alt="Email"/></a>
-  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=flat-square" alt="Telegram"/></a>
+  <a href="https://t.me/FlexDevelopers"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=flat-square" alt="Telegram"/></a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"/></a>
 </p>
 
